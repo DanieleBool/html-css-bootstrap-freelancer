@@ -2,6 +2,10 @@
     background-color: rgb(44,62,80);
 }
 
+.ms-dark-text{
+    color: rgb(44,62,80);
+}
+
 .ms-gray{
     background-color: rgb(136,136,136);
 }
@@ -14,11 +18,12 @@
     background-color: rgb(57,84,109);
 }
 
-/* hr{
-    width: 20%;
-    color: white;
-    height: 3px;
+hr{
+    width: 80px;
+    padding: 1.5px;
+    border: none;
     opacity: 9;
     border-radius: 10px;
     display: inline-block;
-} */
+    margin: auto 1%;
+}
