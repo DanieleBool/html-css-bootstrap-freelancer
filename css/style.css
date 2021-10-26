@@ -27,3 +27,13 @@ hr{
     display: inline-block;
     margin: auto 1%;
 }
+
+.hr-small{
+    width: 40px;
+    padding: 1.5px;
+    border: none;
+    opacity: 9;
+    border-radius: 10px;
+    display: inline-block;
+    margin: auto 1%;
+}
